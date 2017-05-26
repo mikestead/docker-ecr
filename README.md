@@ -1,0 +1,1 @@
+# docker-bash-git-aws
